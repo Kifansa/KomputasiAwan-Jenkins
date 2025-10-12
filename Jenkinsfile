@@ -6,6 +6,5 @@ pipeline {
                 echo 'My Jenkins Pipeline GitHub'
             }
         }
-
     }
 }
